@@ -1,0 +1,9 @@
+
+{"RAW_DATA_DIR": "./data",
+     "PROCESSED_DATA_DIR": "./data/processed", 
+     "TRAIN_PROCESSED_DATA_PATH": "./data/processed/new_train_dfs.binaryfile",
+    "TEST_PROCESSED_DATA_PATH": "./data/processed/new_test_dfs.binaryfile", 
+    "MODEL_CHECKPOINT_DIR": "./models",
+    "SUBMISSION_DIR": "./submissions",
+    "PRE_SUBMISSION_DATA_PATH":"./data/sample_submission.csv",
+    "SUBMISSION_DATA_PATH":"./submissions/last_submission.csv"}
