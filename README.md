@@ -1,6 +1,5 @@
 
-# Nishika リチウムイオン電池の充電率予測 1st place solution  README
-
+# Nishika リチウムイオン電池の充電率予測 1st place solution 
 
 ## 1.データの準備
 TrainデータとTestデータは[コンペ公式サイト](https://www.nishika.com/competitions/16/data)からダウンロードして、以下のようにファイルを格納してください
