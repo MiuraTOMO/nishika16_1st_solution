@@ -1,9 +1,0 @@
-.
-./data
-./data/processed
-./data/train
-./models
-./src
-./submissions
-
-
